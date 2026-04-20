@@ -1,0 +1,16 @@
+.page-header {
+    display: flex;
+    position: fixed;
+    padding: 20px;
+    color: white;
+    z-index: 10;
+    justify-content: space-between;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.page-header__nav a {
+    color: white;
+    text-decoration: none;
+    padding: 0 10px;
+}
